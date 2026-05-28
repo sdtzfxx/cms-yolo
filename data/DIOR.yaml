@@ -1,0 +1,9 @@
+train: DIOR/labelx/train.txt
+val: DIOR/labelx/val.txt
+test: DIOR/labelx/test.txt
+
+nc : 20
+
+names: ['airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 'dam',
+        'Expressway-Service-area', 'Expressway-toll-station', 'golffield', 'groundtrackfield', 'harbor',
+        'overpass', 'ship', 'stadium', 'storagetank', 'tenniscourt', 'trainstation', 'vehicle', 'windmill']

@@ -1,0 +1,6 @@
+train: UAVDT/train.txt
+val: UAVDT/val.txt
+
+nc : 3
+
+names: ["car", "truck", "bus"]

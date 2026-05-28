@@ -1,0 +1,7 @@
+train: WiderPerson/labelx/train.txt
+val: WiderPerson/labelx/val.txt
+test: WiderPerson/labelx/test.txt
+
+nc: 1
+
+names: [ 'pedestrians' ]

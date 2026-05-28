@@ -1,0 +1,7 @@
+train: AU-AIR/labelx/train.txt
+val: AU-AIR/labelx/val.txt
+test: AU-AIR/labelx/test.txt
+
+nc : 8
+
+names: ['person', 'car', 'van', 'truck', 'motorbike', 'bike', 'bus', 'trailer']

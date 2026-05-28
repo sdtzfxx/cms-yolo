@@ -1,0 +1,7 @@
+train: VisDrone2019/labelx/train.txt
+val: VisDrone2019/labelx/val.txt
+test: VisDrone2019/labelx/test.txt
+
+nc : 10
+
+names: [ 'pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']

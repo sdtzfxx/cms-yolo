@@ -1,0 +1,6 @@
+train: TinyPerson v5/labelx/train.txt
+val: TinyPerson v5/labelx/val.txt
+test: TinyPerson v5/labelx/test.txt
+
+nc: 2
+names: ['dry-person', 'wet-swimmer']
