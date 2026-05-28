@@ -104,19 +104,6 @@ python test.py --weights runs/train/exp/weights/best.pt --data data/VD2019.yaml 
 └── test.py               # 测试评估
 ```
 
-## 引用
-
-本项目基于以下工作：
-
-```bibtex
-@article{wang2022yolov7,
-  title={YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors},
-  author={Wang, Chien-Yao and Bochkovskiy, Alexey and Liao, Hong-Yuan Mark},
-  journal={arXiv preprint arXiv:2207.02696},
-  year={2022}
-}
-```
-
 ## 许可
 
 本项目遵循 [GPL-3.0](LICENSE.md) 协议。
